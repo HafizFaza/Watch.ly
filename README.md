@@ -1,2 +1,2 @@
 # Pendataan-Siswa
-Applikasi buat mendata siswa
+Aplikasi buat mendata siswa
