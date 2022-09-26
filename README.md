@@ -1,2 +1,2 @@
 # Pendataan-Siswa
-buat nonton video streaming
+Applikasi buat mendata siswa
